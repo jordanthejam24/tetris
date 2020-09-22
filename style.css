@@ -44,3 +44,14 @@
     font-size: 20px;
     padding: 2px 7px;
 }
+
+.tetromino {
+    background-color: rgb(56, 212, 56);
+}
+
+.taken {
+    width: 20px;
+    height: 20px;
+    outline: 1px solid rgb(221, 29, 29);
+    display: flex;
+}
